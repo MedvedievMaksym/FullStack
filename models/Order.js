@@ -29,5 +29,6 @@ const orderSchema = new Schema({
   }
 })
 
+// odk9JYdygYvbQ0KC Maksym
 
 module.exports = mongoose.model('orders', categorySchema)
